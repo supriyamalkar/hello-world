@@ -1,4 +1,5 @@
 # hello-world
 My first repository
 
-This is new content.
+I'm trying to learn GitHub
+And I like to continue.
